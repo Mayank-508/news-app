@@ -18,6 +18,11 @@ samples, guidance on mobile development, and a full API reference.
 # News App
 
 A Flutter-based news application that provides real-time updates from various news sources like BBC, CNN, and more. It allows users to view top headlines, filter news by categories, and access detailed articles.
+## Video Link
+
+You can watch the demo of the project here:
+
+[Demo Video](https://drive.google.com/file/d/1mHG381MXAZKzTI4BGMCRtfulcmqQ9zHc/view?usp=sharing)
 
 ## Screenshots
 
