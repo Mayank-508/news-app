@@ -22,7 +22,7 @@ A Flutter-based news application that provides real-time updates from various ne
 
 You can watch the demo of the project here:
 
-[Demo Video](https://drive.google.com/file/d/1mHG381MXAZKzTI4BGMCRtfulcmqQ9zHc/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1jXosAsuNcAnNWSvfP5wXWzlQjvqLkVWL/view?usp=sharing)
 
 ## Screenshots
 
